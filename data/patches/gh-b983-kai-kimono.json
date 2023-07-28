@@ -1,0 +1,41 @@
+{
+	"id": -1,
+	"name": "Kai [Kimono]",
+	"description": "This is a character from the Lego series \"Ninjago\" where he is the red ninja of fire. And that's how he was originally built. He's wearing his kimono suit from season 2.\n\nLater he was colored green in order to appoint him as the green ninja. Cine-Ninja and ZeroJump, German-speaking Ninjago YouTubers made the appeal on their Ninjago Discord servers \"Ninjago Cord\" and \"Ninjago Army\".\n\n[The green ninja was the chosen ninja prophesied to defeat evil in Ninjago. Ever since Kai heard about the legend of the Green Ninja, he wanted to become the Green Ninja. Many Ninjago fans were disappointed when it turned out that Kai wasn't the green ninja, but Lloyd.]\n\nSome Ninjago fans misinterpreted this and thought this was supposed to represent Lloyd, the actual green ninja, and saw this as an attack on Kai and tried to turn him red again to defend.\n\n[Lloyd is not liked by many because he became the green ninja instead of Kai and has too much screen time in the series.]\n\nIn the end he had to be promoted to white ninja due to color limitations.",
+	"links": {
+		"website": [
+			"https://www.youtube.com/@CinnyYT",
+			"https://www.youtube.com/@ZeroJump"
+		],
+		"discord": [
+			"h93aYsazVc",
+			"CekATZHnVE"
+		]
+	},
+	"path": {
+		"166-256": [
+			[
+				738,
+				-970
+			],
+			[
+				738,
+				-941
+			],
+			[
+				762,
+				-941
+			],
+			[
+				762,
+				-970
+			]
+		]
+	},
+	"center": {
+		"166-256": [
+			750,
+			-955
+		]
+	}
+}
